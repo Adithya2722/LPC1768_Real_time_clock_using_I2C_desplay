@@ -39,17 +39,17 @@ Designed and implemented interrupt-driven bare-metal firmware on LPC1768 ARM Cor
 
 - ## Folder Structure
 
-├── main.c
-├── rtc.c
-├── rtc.h
-├── timer0.c
-├── timer0.h
-├── i2c0.c
-├── i2c0.h
-├── lcd_16_2_character_iic.c
-├── lcd_16_2_character_iic.h
-├── Bitss.h
-└── README.md
+├── main.c                                                                                                                                                         
+├── rtc.c                                                                                                                                                          
+├── rtc.h                                                                                                                                                         
+├── timer0.c                                                                                                                                                       
+├── timer0.h                                                                                                                                                       
+├── i2c0.c                                                                                                                                                         
+├── i2c0.h                                                                                                                                                         
+├── lcd_16_2_character_iic.c                                                                                                                                       
+├── lcd_16_2_character_iic.h                                                                                                                                       
+├── Bitss.h                                                                                                                                                        
+└── README.md                                                                                                                                                   
 
 ## RTC Functionality
 
