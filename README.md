@@ -89,6 +89,6 @@ LCD Display Example:
 
 
 ## Author
-Adithya S Devadiga
-Electronics and Communication Engineering (ECE)
-Embedded Systems Enthusiast
+Adithya S Devadiga                                                                                                                                                
+Electronics and Communication Engineering (ECE)                                                                                                                    
+Embedded Systems Enthusiast                                                                                                                            
